@@ -1,4 +1,4 @@
-# CN Lab Mini Project
+# Cookie Capture
 
 ## To run
 ```
